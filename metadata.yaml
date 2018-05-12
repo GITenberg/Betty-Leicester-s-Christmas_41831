@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/202
     wikipedia: http://en.wikipedia.org/wiki/Sarah_Orne_Jewett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41831#Betty-Leicester-s-Christmas
 gutenberg_issued: '2013-01-13'
 gutenberg_type: Text
 identifiers:
